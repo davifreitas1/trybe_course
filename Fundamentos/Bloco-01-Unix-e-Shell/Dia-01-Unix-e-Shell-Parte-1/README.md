@@ -1,4 +1,4 @@
-#Unix e Shell Parte 1#
+# Unix e Shell Parte 1 #
 
 Neste exercício, manipulei diretórios e arquivos usando vários comandos no terminal.
 
