@@ -4,6 +4,12 @@
 
 Olá! Meu nome é Davi e estou me dedicando em prol de ser um ótimo profissional na área de tecnologia. A partir do momento em que comecei a estudar Desenvolvimento Web,  me tornar referência como programador se tornou um sonho, algo que almejo no meu cotidiano. Espero que esse acervo me ajude a trilhar uma parte desse longo caminho.
 
+## Trybe ##
+
+"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."
+
+O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+
 ## Introdução e Guia ##
 
 Aqui irei expor todo o meu conhecimento adquirido ao longo do curso.
@@ -14,10 +20,16 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Geralmente, cada dia terá uma nota no README explicando os pontos principais do que foi feito.
 
 ## Módulos ##
-  * Fundamentos
-  * Front-end
-  * Back-end
-  * Ciência da Computação
+
+### Fundamentos ###
+  
+  * Bloco 1: Unix e Shell
+  
+### Front-end ###
+
+### Back-end ###
+
+### Ciência da Computação ###
 
 ## Informações Adicionais ##
 
