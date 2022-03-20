@@ -3,7 +3,7 @@
 Neste exercício, manipulei diretórios e arquivos usando vários comandos no terminal.
 
 - Principais comandos usados:
-  * mkdir e rmdir: utilizado para criar e excluir diretórios;
+  * mkdir e rmdir: utilizados para criar e excluir diretórios;
   * touch: utilizado nesse exercício para criar todos os arquivos;
   * cp e mv: utilizados para copiar, mover ou renomear arquivos, respectivamente;
   * cat, less, head e tail: utilizados para visualizar o conteúdo dos arquivos;
