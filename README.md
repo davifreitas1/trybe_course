@@ -4,6 +4,8 @@
 
 Olá! Meu nome é Davi e estou me dedicando em prol de ser um ótimo profissional na área de tecnologia. A partir do momento em que comecei a estudar Desenvolvimento Web,  me tornar referência como programador se tornou um sonho, algo que almejo no meu cotidiano. Espero que esse acervo me ajude a trilhar uma parte desse longo caminho.
 
+_[Meu LinkedIn](https://www.linkedin.com/in/dvfreitas/)_
+
 ## Trybe ##
 
 "A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."
@@ -31,6 +33,4 @@ Todo o conteúdo estará disposto da seguinte forma:
 
 ### Ciência da Computação ###
 
-## Informações Adicionais ##
-
-_[Meu LinkedIn](https://www.linkedin.com/in/dvfreitas/)_
+## Conteúdo Adicional ##
