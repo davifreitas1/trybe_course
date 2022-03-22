@@ -35,7 +35,7 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Dia 3 - Internet - Entendendo como ela funciona
   
   #### :white_check_mark: Bloco 03: Introdução à HTML e CSS
-  * Dia 1 - Introdução - HTML & CSS
+  * Dia 1 - HTML & CSS: Estruturas de Páginas
   
 ### Front-end
 
