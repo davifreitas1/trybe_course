@@ -1,4 +1,4 @@
-# Unix e Shell Parte 1 #
+# Unix e Shell Parte 2 #
 
 Nesse exercício pratiquei a utilização de comandos manipulando seus inputs e outputs, além de gerenciar as permissões de acesso, alteração e execução dos arquivos
 e lidar com suspensão e encerramento de processos no terminal. Principais comandos usados:
