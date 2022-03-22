@@ -30,6 +30,12 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Dia 2 - Unix e Shell Parte 2
   
   #### :white_check_mark: Bloco 4: Git e GitHub
+  * Dia 1 - Git e GitHub: O que é e para que serve
+  * Dia 2 - Git e GitHub: Entendendo os comandos
+  * Dia 3 - Internet - Entendendo como ela funciona
+  
+  ### :white_check_mark: Bloco 03: Introdução à HTML e CSS
+  * Dia 1 - Introdução - HTML & CSS
   
 ### Front-end
 
