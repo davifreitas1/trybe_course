@@ -9,3 +9,5 @@ de um mapa mental, relevando o conhecimento sobre:
   * URL
   * Navegadores
   * Banco de Dados
+
+A apresentação foi gravada, porém, infelizmente, eu perdi a oportunidade de salvar e publicá-la.
