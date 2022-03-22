@@ -29,7 +29,7 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Dia 1 - Unix e Shell Parte 1
   * Dia 2 - Unix e Shell Parte 2
   
-  #### Bloco 4: Git e GitHub
+  #### :white_check_mark: Bloco 4: Git e GitHub
   
 ### Front-end
 
