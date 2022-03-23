@@ -6,4 +6,4 @@ Aprofundamento nos conceitos de CSS:
     * Agrupamentos de Seletores e Pseudoclasses
     * Combinações e Classes Dependentes
 
-Como nos dias anteriores, a aplicação desses conceitos se dá no [Meu Portifólio](https://https://davifreitas1.github.io)
+Como nos dias anteriores, a aplicação desses conceitos se dá no [Meu Portfólio](https://https://davifreitas1.github.io)
