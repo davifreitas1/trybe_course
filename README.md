@@ -23,24 +23,24 @@ Todo o conteúdo estará disposto da seguinte forma:
 
 ## Módulos
 
-### ✅ Fundamentos
+### ✔️ Fundamentos
   
   #### ☑️ Bloco 3: Unix e Shell
   * Dia 1 - Unix e Shell Parte 1
   * Dia 2 - Unix e Shell Parte 2
   
-  #### - [x] Bloco 4: Git e GitHub
+  #### ☑️ Bloco 4: Git e GitHub
   * Dia 1 - Git e GitHub: O que é e para que serve
   * Dia 2 - Git e GitHub: Entendendo os comandos
   * Dia 3 - Internet - Entendendo como ela funciona
   
-  #### - [x] Bloco 03: Introdução à HTML e CSS
+  #### ☑️ Bloco 03: Introdução à HTML e CSS
   * Dia 1 - HTML & CSS: Estruturas de Páginas
   * Dia 2 - HTML & CSS: Primeiros Passos em CSS
   * Dia 3 - HTML & CSS: Seletores e Posicionamento
   * Dia 4 - HTML Semântico
   
-### ✅ Front-end
+### ✔️ Front-end
 
 ### Back-end
   
