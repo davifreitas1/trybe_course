@@ -55,7 +55,7 @@ Todo o conteúdo estará disposto da seguinte forma:
 
 ### Back-end
   
-  #### :white_check_mark: Bloco 19: Docker: Utilizando Containers
+  #### ☑️ Bloco 19: Docker: Utilizando Containers
   * Dia 1: Utilizando Containers - Docker
 
 ### Ciência da Computação
