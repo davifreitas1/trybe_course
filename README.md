@@ -24,12 +24,12 @@ Todo o conteúdo estará disposto da seguinte forma:
 ## Conteúdo
   
   #### Projetos
-    * <a href="https://github.com/davifreitas1/sd-017-project-lessons-learned" target="_blank">Lessons Learned</a>
+   * <a href="https://github.com/davifreitas1/sd-017-project-lessons-learned" target="_blank">Lessons Learned</a>
   
   #### Módulos
-    * Fundamentos
-    * Front-end
-    * Back-end
+   * Fundamentos
+   * Front-end
+   * Back-end
 
 ## Módulos
 
