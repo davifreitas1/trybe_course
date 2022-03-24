@@ -22,9 +22,13 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Geralmente, cada dia terá uma nota no README explicando os pontos principais do que foi feito.
 
 ## Conteúdo
+  
   Projetos
+    
     * <a href="https://github.com/davifreitas1/sd-017-project-lessons-learned" target="_blank">Lessons Learned</a>
+  
   Módulos
+    
     * Fundamentos
     * Front-end
     * Back-end
