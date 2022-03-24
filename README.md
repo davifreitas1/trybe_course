@@ -21,15 +21,13 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Dentro de cada Bloco, existirá uma lista com a contagem de atividades diárias dedicadas ao curso.
   * Geralmente, cada dia terá uma nota no README explicando os pontos principais do que foi feito.
 
-## Conteúdo
+## Projetos
   
-  - Projetos
+  - Fundamentos
       - [Lessons Learned](https://github.com/davifreitas1/sd-017-project-lessons-learned)
-  
-  - Módulos
-      - [Fundamentos](#fundamentos)
-      - Front-end
-      - Back-end
+  - Front-end
+  - Back-end
+  - Ciência da Computação
 
 ## Módulos
 
