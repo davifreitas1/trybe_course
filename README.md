@@ -24,8 +24,7 @@ Todo o conteúdo estará disposto da seguinte forma:
 ## Conteúdo
   
   #### Projetos
-   * <a href="https://github.com/davifreitas1/sd-017-project-lessons-learned" target="_blank">Lessons Learned</a>
-   * [Lessons Learned](https://github.com/davifreitas1/sd-017-project-lessons-learned){:target="\_blank"}
+   * [Lessons Learned](https://github.com/davifreitas1/sd-017-project-lessons-learned)
   
   #### Módulos
    * Fundamentos
@@ -50,7 +49,7 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Dia 2 - HTML & CSS: Primeiros Passos em CSS
   * Dia 3 - HTML & CSS: Seletores e Posicionamento
   * Dia 4 - HTML Semântico
-  * Projeto: Lessons Learned (Clique <a href="https://github.com/davifreitas1/sd-017-project-lessons-learned" target="_blank">aqui</a> para conferir)
+  * Projeto: Lessons Learned (Clique [aqui](https://github.com/davifreitas1/sd-017-project-lessons-learned) para conferir)
   
 ### ✔️ Front-end
 
