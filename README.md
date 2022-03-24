@@ -27,7 +27,7 @@ Todo o conteúdo estará disposto da seguinte forma:
    * [Lessons Learned](https://github.com/davifreitas1/sd-017-project-lessons-learned)
   
   #### Módulos
-   * [Fundamentos](#fundamentos-)
+   * [Fundamentos](#fundamentos)
    * Front-end
    * Back-end
 
