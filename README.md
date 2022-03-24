@@ -23,18 +23,18 @@ Todo o conteúdo estará disposto da seguinte forma:
 
 ## Módulos
 
-### Fundamentos
+### :white_check_mark: Fundamentos
   
-  #### :white_check_mark: Bloco 3: Unix e Shell
+  #### [X] Bloco 3: Unix e Shell
   * Dia 1 - Unix e Shell Parte 1
   * Dia 2 - Unix e Shell Parte 2
   
-  #### :white_check_mark: Bloco 4: Git e GitHub
+  #### [X] Bloco 4: Git e GitHub
   * Dia 1 - Git e GitHub: O que é e para que serve
   * Dia 2 - Git e GitHub: Entendendo os comandos
   * Dia 3 - Internet - Entendendo como ela funciona
   
-  #### :white_check_mark: Bloco 03: Introdução à HTML e CSS
+  #### [X] Bloco 03: Introdução à HTML e CSS
   * Dia 1 - HTML & CSS: Estruturas de Páginas
   * Dia 2 - HTML & CSS: Primeiros Passos em CSS
   * Dia 3 - HTML & CSS: Seletores e Posicionamento
