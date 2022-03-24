@@ -36,6 +36,9 @@ Todo o conteúdo estará disposto da seguinte forma:
   
   #### :white_check_mark: Bloco 03: Introdução à HTML e CSS
   * Dia 1 - HTML & CSS: Estruturas de Páginas
+  * Dia 2 - HTML & CSS: Primeiros Passos em CSS
+  * Dia 3 - HTML & CSS: Seletores e Posicionamento
+  * Dia 4 - HTML Semântico
   
 ### Front-end
 
