@@ -25,6 +25,7 @@ Todo o conteúdo estará disposto da seguinte forma:
   
   #### Projetos
    * <a href="https://github.com/davifreitas1/sd-017-project-lessons-learned" target="_blank">Lessons Learned</a>
+   * [Lessons Learned](https://github.com/davifreitas1/sd-017-project-lessons-learned){:target="\_blank"}
   
   #### Módulos
    * Fundamentos
