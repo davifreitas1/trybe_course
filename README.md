@@ -62,6 +62,7 @@ Todo o conteúdo estará disposto da seguinte forma:
   
   #### ☑️ Bloco 19: Docker: Utilizando Containers
   * Dia 1: Utilizando Containers - Docker
+  * Dia 2: Manipulação e Criação de Imagens - Docker
 
 ### Ciência da Computação
 
