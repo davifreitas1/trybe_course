@@ -33,21 +33,28 @@ Todo o conteúdo estará disposto da seguinte forma:
 
 ### ✔️ Fundamentos
   
-  #### ☑️ Bloco 3: Unix e Shell
+  #### ☑️ Bloco 1: Unix e Shell
   * Dia 1 - Unix e Shell Parte 1
   * Dia 2 - Unix e Shell Parte 2
   
-  #### ☑️ Bloco 4: Git e GitHub
+  #### ☑️ Bloco 2: Git e GitHub
   * Dia 1 - Git e GitHub: O que é e para que serve
   * Dia 2 - Git e GitHub: Entendendo os comandos
   * Dia 3 - Internet - Entendendo como ela funciona
   
-  #### ☑️ Bloco 03: Introdução à HTML e CSS
+  #### ☑️ Bloco 3: Introdução à HTML e CSS
   * Dia 1 - HTML & CSS: Estruturas de Páginas
   * Dia 2 - HTML & CSS: Primeiros Passos em CSS
   * Dia 3 - HTML & CSS: Seletores e Posicionamento
   * Dia 4 - HTML Semântico
   * Projeto: Lessons Learned (Clique [aqui](https://github.com/davifreitas1/sd-017-project-lessons-learned) para conferir)
+  
+  #### ☑️ Bloco 4: Introdução à JavaScript e Lógica de Programação
+  * Dia 1 - JavaScript - Primeiros passos
+  * Dia 2 - JavaScript - Array e loop For
+  * Dia 3 - JavaScript - Lógica de Programação e Algoritmos
+  * Dia 4 - JavaScript - Objetos e funções
+  * Projeto: Projeto - Playground Functions (Clique [aqui]() para conferir)
   
 ### ✔️ Front-end
 
