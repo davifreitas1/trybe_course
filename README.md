@@ -39,7 +39,7 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Dia 2 - HTML & CSS: Primeiros Passos em CSS
   * Dia 3 - HTML & CSS: Seletores e Posicionamento
   * Dia 4 - HTML Semântico
-  * Projeto: Lessons Learned
+  * Projeto: Lessons Learned (Clique [aqui](https://github.com/davifreitas1/sd-017-project-lessons-learned) para conferir)
   
 ### ✔️ Front-end
 
