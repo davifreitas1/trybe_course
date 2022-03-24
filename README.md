@@ -25,7 +25,7 @@ Todo o conteúdo estará disposto da seguinte forma:
 
 ### ✅ Fundamentos
   
-  ####  Bloco 3: Unix e Shell
+  #### -[X] Bloco 3: Unix e Shell
   * Dia 1 - Unix e Shell Parte 1
   * Dia 2 - Unix e Shell Parte 2
   
