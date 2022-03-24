@@ -23,9 +23,9 @@ Todo o conteúdo estará disposto da seguinte forma:
 
 ## Módulos
 
-### :white_check_mark: Fundamentos
+### :green_check_mark: Fundamentos
   
-  #### -[X] Bloco 3: Unix e Shell
+  ####  Bloco 3: Unix e Shell
   * Dia 1 - Unix e Shell Parte 1
   * Dia 2 - Unix e Shell Parte 2
   
@@ -40,7 +40,7 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Dia 3 - HTML & CSS: Seletores e Posicionamento
   * Dia 4 - HTML Semântico
   
-### Front-end
+### :green_check_mark: Front-end
 
 ### Back-end
   
