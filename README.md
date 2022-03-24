@@ -58,9 +58,9 @@ Todo o conteúdo estará disposto da seguinte forma:
   
 ### ✔️ Front-end
 
-### Back-end
+### :hourglass_flowing_sand: Back-end
   
-  #### ☑️ Bloco 19: Docker: Utilizando Containers
+  #### :hourglass_flowing_sand: Bloco 19: Docker: Utilizando Containers
   * Dia 1: Utilizando Containers - Docker
   * Dia 2: Manipulação e Criação de Imagens - Docker
 
