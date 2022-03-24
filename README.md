@@ -25,7 +25,7 @@ Todo o conteúdo estará disposto da seguinte forma:
 
 ### :white_check_mark: Fundamentos
   
-  #### - [X] Bloco 3: Unix e Shell
+  #### Bloco 3: Unix e Shell - [X]
   * Dia 1 - Unix e Shell Parte 1
   * Dia 2 - Unix e Shell Parte 2
   
