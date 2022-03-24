@@ -23,13 +23,13 @@ Todo o conteúdo estará disposto da seguinte forma:
 
 ## Conteúdo
   
-  #### Projetos
-   * [Lessons Learned](https://github.com/davifreitas1/sd-017-project-lessons-learned)
+  - Projetos
+   - [Lessons Learned](https://github.com/davifreitas1/sd-017-project-lessons-learned)
   
-  #### Módulos
-   * [Fundamentos](#fundamentos)
-   * Front-end
-   * Back-end
+  - Módulos
+   - [Fundamentos](#fundamentos)
+   - Front-end
+   - Back-end
 
 ## Módulos
 
