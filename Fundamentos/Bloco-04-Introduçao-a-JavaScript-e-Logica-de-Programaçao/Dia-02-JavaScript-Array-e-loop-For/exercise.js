@@ -1,9 +1,9 @@
-let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
+const numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
 
 // Imprimir todos os itens do array
 
 
-for (let number of numbers) {
+for (const number of numbers) {
   console.log(number);
 }
 
@@ -11,7 +11,7 @@ for (let number of numbers) {
 
 let total = 0;
 
-for (let number of numbers) {
+for (const number of numbers) {
   total = total + number;
 }
 
@@ -19,8 +19,7 @@ console.log(total);
 
 // Média aritmética
 
-let media = 0;
-media = total / numbers.length;
+const media = total / numbers.length;
 console.log(media);
 
 // Verificar se a média é maior que 20
@@ -35,7 +34,7 @@ if (media > 20) {
 
 let bigNumber = 0;
 
-for (let number of numbers) {
+for (const number of numbers) {
   if (number >= bigNumber) {
     bigNumber = number;
   }
@@ -47,7 +46,7 @@ console.log(bigNumber);
 
 let smallNumber = numbers[0];
 
-for (let number of numbers) {
+for (const number of numbers) {
   if (number <= smallNumber) {
     smallNumber = number;
   }
