@@ -1,4 +1,4 @@
-// Criar uma lógica que execute fatoração.
+// Criar uma lógica que execute fatorial.
 
 const number = 5;
 let result = 1;
