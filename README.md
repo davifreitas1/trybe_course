@@ -55,7 +55,15 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Dia 2 - JavaScript - Array e loop For
   * Dia 3 - JavaScript - Lógica de Programação e Algoritmos
   * Dia 4 - JavaScript - Objetos e funções
-  * Projeto: Projeto - Playground Functions (Clique [aqui](https://github.com/davifreitas1/sd-17-playground-functions) para conferir)
+  * Projeto - Playground Functions (Clique [aqui](https://github.com/davifreitas1/sd-17-playground-functions) para conferir)
+  
+  #### ☑️ Bloco 05: JavaScript: DOM, Eventos e Web Storage
+  * Dia 1 - JavaScript - DOM e seletores
+  * Dia 2 - JavaScript - Trabalhando com elementos
+  * Dia 3 - JavaScript - Eventos
+  * Dia 4 - JavaScript - Web Storage
+  * Projeto - Arte com Pixels (Clique [aqui]() para conferir)
+  * Projeto - Lista de Afazeres (Clique [aqui]() para conferir)
   
 ### ✔️ Front-end
 
