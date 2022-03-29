@@ -25,6 +25,7 @@ Todo o conteúdo estará disposto da seguinte forma:
   
   - Fundamentos
       - [Lessons Learned](https://github.com/davifreitas1/sd-017-project-lessons-learned)
+      - [Playground Functions](https://github.com/davifreitas1/sd-17-playground-functions)
   - Front-end
   - Back-end
   - Ciência da Computação
@@ -54,7 +55,7 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Dia 2 - JavaScript - Array e loop For
   * Dia 3 - JavaScript - Lógica de Programação e Algoritmos
   * Dia 4 - JavaScript - Objetos e funções
-  * Projeto: Projeto - Playground Functions (Clique [aqui]() para conferir)
+  * Projeto: Projeto - Playground Functions (Clique [aqui](https://github.com/davifreitas1/sd-17-playground-functions) para conferir)
   
 ### ✔️ Front-end
 
