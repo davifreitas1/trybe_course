@@ -57,7 +57,48 @@
   </head>
   <body>
     <script>
-      
+      function createElement(element, classTag, content) {
+        const e = document.createElement(element);
+        e.innerText = content;
+        e.className = classTag;
+        return e;
+      }
+
+      const title = createElement('h1', 'title', 'Exercício 5.2 - JavaScript DOM');
+      document.body.appendChild(title);
+
+      const mainContent = createElement('main', 'main-content', '');
+      document.body.appendChild(mainContent);
+
+      const section = createElement('section', 'center-content', '');
+      mainContent.appendChild(section);
+
+      const p = createElement('p', '', 'Texto Exemplo');
+      section.appendChild(p);
+
+      const sectionLeft = createElement('section', 'left-content', '');
+      mainContent.appendChild(sectionLeft);
+
+      const sectionRight = createElement('section', 'right-content', '');
+      mainContent.appendChild(sectionRight);
+
+      const image = createElement('img', 'small-image', '');
+      image.src = 'https://picsum.photos/200';
+      sectionLeft.appendChild(image);
+
+      const list = createElement('ul', '', '');
+      sectionRight.appendChild(list);
+
+      const numberInFull = ['um', 'dois', 'três', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez'];
+      for (const number of numberInFull) {
+        const listItem = createElement('li', '', number);
+        list.appendChild(listItem);
+      }
+
+      for (let index = 0; index < 3; index++) {
+        const element = createElement('h3', 'description', 'Texto Exemplo da H3');
+        mainContent.appendChild(element);
+      }
     </script>
   </body>
 </html>
