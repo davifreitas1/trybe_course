@@ -28,6 +28,7 @@ Todo o conteúdo estará disposto da seguinte forma:
       - [Playground Functions](https://github.com/davifreitas1/sd-17-playground-functions)
   - Front-end
   - Back-end
+      - [Docker ToDo List]()
   - Ciência da Computação
 
 ## Módulos
@@ -69,9 +70,14 @@ Todo o conteúdo estará disposto da seguinte forma:
 
 ### :hourglass_flowing_sand: Back-end
   
-  #### :hourglass_flowing_sand: Bloco 19: Docker: Utilizando Containers
-  * Dia 1: Utilizando Containers - Docker
-  * Dia 2: Manipulação e Criação de Imagens - Docker
+  #### ☑️ Bloco 19: Docker: Utilizando Containers
+  * Dia 1 - Utilizando Containers - Docker
+  * Dia 2 - Manipulação e Criação de Imagens - Docker
+  * Dia 3 - Orquestrando Containers com Docker Compose
+  * Projeto - Docker ToDo List (Clique [aqui]() para conferir)
+  
+  #### :hourglass_flowing_sand: Bloco 20: Introdução à SQL
+  * Dia 1 - Bando de dados SQL
 
 ### Ciência da Computação
 
