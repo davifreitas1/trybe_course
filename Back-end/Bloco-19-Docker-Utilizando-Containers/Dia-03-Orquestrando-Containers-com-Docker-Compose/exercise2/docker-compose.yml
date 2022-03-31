@@ -1,0 +1,34 @@
+version: '3'
+
+services:
+  exercise-ghost:
+    image: ghost:1-alpine
+    restart: always
+    ports:
+    - 2368:2368
+    depends_on:
+      - exercise-db
+    environment:
+      - database__client=mysql
+      - database__connection__host=exercise-db
+      - database__connection__user=root
+      - database__connection__password=root
+      - database__connection__database=exercise-ghost
+    networks:
+      - exercise-network
+
+  exercise-db:
+    image: mysql:5.7
+    restart: always
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+    volumes:
+      - db-data:/var/lib/mysql
+    networks:
+      - exercise-network
+
+volumes:
+  db-data:
+
+networks:
+  exercise-network:
