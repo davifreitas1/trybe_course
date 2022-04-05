@@ -78,6 +78,7 @@ Todo o conteúdo estará disposto da seguinte forma:
   
   #### :hourglass_flowing_sand: Bloco 20: Introdução à SQL
   * Dia 1 - Bando de dados SQL
+  * Dia 2 - Encontrando dados em um Banco de dados
 
 ### Ciência da Computação
 
