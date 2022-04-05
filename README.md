@@ -77,7 +77,7 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Dia 3 - Orquestrando Containers com Docker Compose
   * Projeto - Docker ToDo List (Clique [aqui]() para conferir)
   
-  #### :hourglass_flowing_sand: Bloco 20: Introdução à SQL
+  #### ☑️ Bloco 20: Introdução à SQL
   * Dia 1 - Bando de dados SQL
   * Dia 2 - Encontrando dados em um Banco de dados
   * Dia 3 - Filtrando de forma específica
