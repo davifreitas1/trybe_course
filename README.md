@@ -29,6 +29,7 @@ Todo o conteúdo estará disposto da seguinte forma:
   - Front-end
   - Back-end
       - [Docker ToDo List]()
+      - [All For One]()
   - Ciência da Computação
 
 ## Módulos
@@ -79,6 +80,9 @@ Todo o conteúdo estará disposto da seguinte forma:
   #### :hourglass_flowing_sand: Bloco 20: Introdução à SQL
   * Dia 1 - Bando de dados SQL
   * Dia 2 - Encontrando dados em um Banco de dados
+  * Dia 3 - Filtrando de forma específica
+  * Dia 4 - Manipulando tabelas
+  * Projeto - All For One (Clique [aqui]() para conferir)
 
 ### Ciência da Computação
 
