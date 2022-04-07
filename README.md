@@ -27,6 +27,7 @@ Todo o conteúdo estará disposto da seguinte forma:
       - [Lessons Learned](https://github.com/davifreitas1/sd-017-project-lessons-learned)
       - [Playground Functions](https://github.com/davifreitas1/sd-17-playground-functions)
       - [Arte com Pixels](https://github.com/davifreitas1/sd-17-project-pixels-art)
+      - [Lista de Afazeres](https://github.com/davifreitas1/sd-17-project-todo-list)
   - Front-end
   - Back-end
       - [Docker ToDo List](https://github.com/davifreitas1/sd-17-project-docker-todo-list)
@@ -66,7 +67,15 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Dia 3 - JavaScript - Eventos
   * Dia 4 - JavaScript - Web Storage
   * Projeto - Arte com Pixels (Clique [aqui](https://github.com/davifreitas1/sd-17-project-pixels-art) para conferir)
-  * Projeto - Lista de Afazeres (Clique [aqui]() para conferir)
+  * Projeto - Lista de Afazeres (Clique [aqui](https://github.com/davifreitas1/sd-17-project-todo-list) para conferir)
+
+  #### ☑️ Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
+  * Dia 1 - HTML & CSS - Forms
+  * Dia 2 - Bibliotecas JavaScript e Frameworks CSS
+  * Dia 3 - CSS Flexbox - Parte 1
+  * Dia 4 - CSS Flexbox - Parte 2
+  * Dia 5 - CSS Responsivo - Mobile First
+  * Projeto - Trybewarts (Clique [aqui]() para conferir)
   
 ### ✔️ Front-end
 
