@@ -21,7 +21,7 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Dentro de cada Bloco, existirá uma lista com a contagem de atividades diárias dedicadas ao curso.
   * Geralmente, cada dia terá uma nota no README explicando os pontos principais do que foi feito.
   * Geralmente, ao final de cada Bloco, existirá um projeto com a utilidade de demonstrar, aprofundar e aplicar os conhecimentos adquiridos dos dias anteriores
-  * Todos os Projetos possuem um sumário próprio logo abaixo
+  * Todos os Projetos possuem um sumário próprio logo abaixo e o sumário dos Módulos logo em seguida
 
 ## Projetos
   
