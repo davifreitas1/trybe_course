@@ -20,6 +20,8 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Cada módulo possui um diretório próprio onde o conteúdo estará separado por Blocos.
   * Dentro de cada Bloco, existirá uma lista com a contagem de atividades diárias dedicadas ao curso.
   * Geralmente, cada dia terá uma nota no README explicando os pontos principais do que foi feito.
+  * Geralmente, ao final de cada Bloco, existirá um projeto com a utilidade de demonstrar, aprofundar e aplicar os conhecimentos adquiridos dos dias anteriores
+  * Todos os Projetos possuem um sumário próprio logo abaixo
 
 ## Projetos
   
