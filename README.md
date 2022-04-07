@@ -26,6 +26,7 @@ Todo o conteúdo estará disposto da seguinte forma:
   - Fundamentos
       - [Lessons Learned](https://github.com/davifreitas1/sd-017-project-lessons-learned)
       - [Playground Functions](https://github.com/davifreitas1/sd-17-playground-functions)
+      - [Arte com Pixels](https://github.com/davifreitas1/sd-17-project-pixels-art)
   - Front-end
   - Back-end
       - [Docker ToDo List](https://github.com/davifreitas1/sd-17-project-docker-todo-list)
@@ -64,7 +65,7 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Dia 2 - JavaScript - Trabalhando com elementos
   * Dia 3 - JavaScript - Eventos
   * Dia 4 - JavaScript - Web Storage
-  * Projeto - Arte com Pixels (Clique [aqui]() para conferir)
+  * Projeto - Arte com Pixels (Clique [aqui](https://github.com/davifreitas1/sd-17-project-pixels-art) para conferir)
   * Projeto - Lista de Afazeres (Clique [aqui]() para conferir)
   
 ### ✔️ Front-end
@@ -83,6 +84,12 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Dia 3 - Filtrando de forma específica
   * Dia 4 - Manipulando tabelas
   * Projeto - All For One (Clique [aqui](https://github.com/davifreitas1/sd-17-project-all-for-one) para conferir)
+  
+  #### :hourglass_flowing_sand: Bloco 21: Funções SQL, JOINs e Normalização
+  * Dia 1 - Funções mais usadas no SQL
+  * Dia 2 - Descomplicando JOINs
+  * Dia 3 - Transformando ideias em um modelo de banco de dados
+  * Projeto - One For All (Clique [aqui]() para conferir)
 
 ### Ciência da Computação
 
