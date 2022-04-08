@@ -1,0 +1,18 @@
+div {
+  margin-bottom: 8px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#form-box {
+  border: 1px solid black;
+  padding: 15px;
+}
+
+#answer-input {
+  height: 50px;
+  width: 50%;
+  margin-top: 5px;
+}
