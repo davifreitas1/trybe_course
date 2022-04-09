@@ -1,0 +1,19 @@
+div {
+  margin-bottom: 8px;
+}
+
+#form-box {
+  border: 1px solid black;
+  padding: 15px;
+  width: 70%;
+}
+
+#date-input {
+  width: 20%;
+}
+
+#answer-input {
+  height: 100px;
+  width: 80%;
+  margin-top: 5px;
+}

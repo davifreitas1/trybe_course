@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+  <title>Forms</title>
+</head>
+<body>
+  <header class="content">
+    <h1>Formulário</h1>
+  </header>
+  <form>
+    <div id="form-box">
+      <div class="field">
+        <label class="label" for="name-input">Nome:</label>
+        <div class="control">
+          <input
+            class="input"
+            id="name-input"
+            name="name-input"
+            type="text"
+            placeholder="Digite seu nome aqui"
+            minlength="10"
+            maxlength="40"
+          >
+        </div>
+        <p class="help">No mínimo 10 caracteres, no máximo 40</p>
+      </div>
+      <div class="field">
+        <label class="label" for="email-input">E-mail:</label>
+        <div class="control">
+          <input class="input" id="email-input" name="email-input" type="email" placeholder="Digite seu email aqui" minlength="10" maxlength="50">
+        </div>
+        <p class="help">No mínimo 10 caracteres, no máximo 50</p>
+      </div>
+      <div class="field">
+        <label class="label" for="destiny-input">Destino Preferido:</label>
+        <div class="control">
+          <div class="select">
+            <select name="destiny-input" id="destiny-input">
+              <option value="city">Cidade</option>
+              <option value="camp">Campo</option>
+              <option value="beach">Praia</option>
+              <option value="mountains">Montanhas</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div class="field">
+        <label class="label" for="answer-input">Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso TrybeTrip?</label>
+        <div class="control">
+          <input class="input" name="answer-input" id="answer-input" type="text" maxlength="500">
+        </div>
+      </div>
+      <div class="field">
+        <label class="label" for="date-input">Qual a melhor data para realizar sua viagem?</label>
+        <div class="control">
+          <input class="input" name="date-input" id="date-input" type="date">
+        </div>
+      </div>
+      <div class="field">
+        <label class="label" for="interest-input">Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?</label>
+        <div class="control">
+          <input name="interest-input" id="interest-input" type="radio" value="yes">
+          Sim
+          <input name="interest-input" id="interest-input" type="radio" value="no">
+          Não
+        </div>
+      </div>
+      <div class="field">
+        <label class="label" for="permission-input">Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.</label>
+        <div class="control">
+          <input name="permission-input" id="permission-input" type="radio" value="yes">
+          Sim
+          <input name="permission-input" id="permission-input" type="radio" value="no">
+          Não
+        </div>
+      </div>
+      <button class="button" type="submit">Enviar</button>
+    </div>
+  </form>
+</body>
+</html>

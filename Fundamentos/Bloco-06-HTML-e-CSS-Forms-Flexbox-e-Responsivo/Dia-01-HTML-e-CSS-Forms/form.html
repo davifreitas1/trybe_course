@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Forms</title>
+</head>
+<body>
+  <header>
+    <h1>Formulário</h1>
+  </header>
+  <form>
+    <div id="form-box">
+      <div>
+        <label for="name-input">
+          Nome:
+          <input id="name-input" name="name-input" type="text" minlength="10" maxlength="40">
+        </label>
+        <label for="email-input">
+          E-mail:
+          <input id="email-input" name="email-input" type="email" minlength="10" maxlength="50">
+        </label>
+      </div>
+      <div>
+        <label for="destiny-input">
+          Destino Preferido:
+          <select name="destiny-input" id="destiny-input">
+            <option value="city">Cidade</option>
+            <option value="camp">Campo</option>
+            <option value="beach">Praia</option>
+            <option value="mountains">Montanhas</option>
+          </select>
+        </label>
+      </div>
+      <div>
+        <label for="answer-input">
+          Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso TrybeTrip?
+          <br/>
+          <input name="answer-input" id="answer-input" type="text" maxlength="500">
+        </label>
+      </div>
+      <div>
+        <label for="date-input">
+          Qual a melhor data para realizar sua viagem?
+          <input name="date-input" id="date-input" type="date">
+        </label>
+      </div>
+      <div>
+        <label for="interest-input">
+          Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?
+          <input name="interest-input" id="interest-input" type="radio" value="yes">
+          Sim
+          <input name="interest-input" id="interest-input" type="radio" value="no">
+          Não
+        </label>
+      </div>
+      <div>
+        <label for="permission-input">
+          Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.
+          <br/>
+          <input name="permission-input" id="permission-input" type="radio" value="yes">
+          Sim
+          <input name="permission-input" id="permission-input" type="radio" value="no">
+          Não
+        </label>
+      </div>
+      <button type="submit">Enviar</button>
+    </div>
+  </form>
+</body>
+</html>
