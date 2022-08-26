@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao meu Repositório de Exercícios da Trybe!
+# Bem-vindo(a) ao meu Repositório de Exercícios da Trybe! !! EM DESENVOLVIMENTO !!
 
 ## Sobre mim
 
