@@ -121,7 +121,7 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Dia 2: Herança e Interfaces
   * Dia 3: Polimorfismo
   * Dia 4: SOLID - Introdução e Princípios S, O e D
-  * Dia 5: SOLID - Princípios L i I
+  * Dia 5: SOLID - Princípios L e I
   
   #### ☑️ Bloco 28: Projeto TFC
   * [Trybe Futebol Clube](https://github.com/davifreitas1/personal-project-tfc)
