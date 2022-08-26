@@ -136,6 +136,7 @@ Todo o conteúdo estará disposto da seguinte forma:
   #### ☑️ Bloco 30: Mongo com Node.js e POO
   * Dia 1: Mongoose e Arquitetura MSC (Model)
   * Dia 2: Mongoose e Arquitetura MSC (Service e Controller)
+  * [Project MongoDB Car Shop](https://github.com/davifreitas1/personal-project-mongodb-car-shop)
   
   #### ☑️ Bloco 32: Masterclass - VPS, CI/CD
   * Dia 1: VPS
