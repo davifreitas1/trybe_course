@@ -18,22 +18,16 @@ Aqui irei expor todo o meu conhecimento adquirido ao longo do curso.
 
 Todo o conteúdo estará disposto da seguinte forma:
   * Cada módulo possui um diretório próprio onde o conteúdo estará separado por Blocos.
-  * Dentro de cada Bloco, existirá uma lista com a contagem de atividades diárias dedicadas ao curso.
+  * Geralmente, dentro de cada Bloco, existirá uma lista com a contagem de atividades diárias dedicadas ao curso.
   * Geralmente, cada dia terá uma nota no README explicando os pontos principais do que foi feito.
-  * Geralmente, ao final de cada Bloco, existirá um projeto com a utilidade de demonstrar, aprofundar e aplicar os conhecimentos adquiridos dos dias anteriores
-  * Todos os Projetos possuem um sumário próprio logo abaixo e o sumário dos Módulos logo em seguida
-
+  
 ## Projetos
   
   - Fundamentos
-      - [Lessons Learned](https://github.com/davifreitas1/sd-017-project-lessons-learned)
-      - [Playground Functions](https://github.com/davifreitas1/sd-17-playground-functions)
-      - [Arte com Pixels](https://github.com/davifreitas1/sd-17-project-pixels-art)
-      - [Lista de Afazeres](https://github.com/davifreitas1/sd-17-project-todo-list)
   - Front-end
   - Back-end
-      - [Docker ToDo List](https://github.com/davifreitas1/sd-17-project-docker-todo-list)
-      - [All For One](https://github.com/davifreitas1/sd-17-project-all-for-one)
+      - [Trybe Futebol Clube] (https://github.com/davifreitas1/personal-project-tfc)
+      - [Project MongoDB Car Shop](https://github.com/davifreitas1/personal-project-mongodb-car-shop)
   - Ciência da Computação
 
 ## Módulos
@@ -81,27 +75,53 @@ Todo o conteúdo estará disposto da seguinte forma:
   
 ### ✔️ Front-end
 
-### :hourglass_flowing_sand: Back-end
+### ✔️ Back-end
   
   #### ☑️ Bloco 19: Docker: Utilizando Containers
   * Dia 1 - Utilizando Containers - Docker
   * Dia 2 - Manipulação e Criação de Imagens - Docker
   * Dia 3 - Orquestrando Containers com Docker Compose
-  * Projeto - Docker ToDo List (Clique [aqui](https://github.com/davifreitas1/sd-17-project-docker-todo-list) para conferir)
   
   #### ☑️ Bloco 20: Introdução à SQL
   * Dia 1 - Bando de dados SQL
   * Dia 2 - Encontrando dados em um Banco de dados
   * Dia 3 - Filtrando de forma específica
   * Dia 4 - Manipulando tabelas
-  * Projeto - All For One (Clique [aqui](https://github.com/davifreitas1/sd-17-project-all-for-one) para conferir)
   
-  #### :hourglass_flowing_sand: Bloco 21: Funções SQL, JOINs e Normalização
+  #### ☑️ Bloco 21: Funções SQL, JOINs e Normalização
   * Dia 1 - Funções mais usadas no SQL
   * Dia 2 - Descomplicando JOINs
   * Dia 3 - Transformando ideias em um modelo de banco de dados
-  * Projeto - One For All (Clique [aqui]() para conferir)
+  
+  #### ☑️ Bloco 22: Introdução ao Desenvolvimento Web com Node.js
+  * Dia 1 - Node.js: Introdução e Runtime Assíncrono
+  * Dia 2 - Node.js: API REST com Express
+  * Dia 3 - Node.js: Testes de Integração
+  * Dia 4 - Express: Middlewares
+  * Dia 5 - Node.js: Express e MySQL
+  
+  #### ☑️ Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
+  * Dia 1 - Arquitetura de Software - Camada de Model
+  * Dia 2 - Arquitetura de Software - Camada de Service e Controller
+  * Dia 3 - Arquitetura Web - Rest e Restful
+  * Dia 4 - Arquitetura de Software - Testando as Camadas
+  
+  #### ☑️ Bloco 24: Node.js: ORM e Autenticação
+  
+  #### ☑️ Bloco 25: Deployment
+  
+  #### ☑️ Bloco 26: Typescript
+  
+  #### ☑️ Bloco 27: Programação Orientada a Objetos (POO) e Princípio SOLID
+  
+  #### ☑️ Bloco 28: Projeto TFC
+  
+  #### ☑️ Bloco 29: Introdução a MongoDB
+  
+  #### ☑️ Bloco 30: Mongo com Node.js e POO
+  
+  #### ☑️ Bloco 32: Masterclass - VPS, CI/CD
 
-### Ciência da Computação
+### :hourglass_flowing_sand: Ciência da Computação
 
 ## Conteúdo Adicional ##
