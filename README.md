@@ -102,21 +102,44 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Dia 4 - Arquitetura de Software - Testando as Camadas
   
   #### ☑️ Bloco 24: Node.js: ORM e Autenticação
+  * Dia 1: ORM - Interface da aplicação com o banco de dados
+  * Dia 2: ORM - Associations
+  * Dia 3: JWT
+  * Dia 4: Testando APIs com Testes de Integração
   
   #### ☑️ Bloco 25: Deployment
+  * Dia 1: Infraestrutura - Deploy com Heroku
+  * Dia 2: Deploy Docker & Heroku
   
   #### ☑️ Bloco 26: Typescript
+  * Dia 1: Introdução ao TypeScript
+  * Dia 2: Tipagem Estática e Generics
+  * Dia 3: Express com TypeScript
   
   #### ☑️ Bloco 27: Programação Orientada a Objetos (POO) e Princípio SOLID
+  * Dia 1: Introdução à Orientação a Objetos
+  * Dia 2: Herança e Interfaces
+  * Dia 3: Polimorfismo
+  * Dia 4: SOLID - Introdução e Princípios S, O e D
+  * Dia 5: SOLID - Princípios L i I
   
   #### ☑️ Bloco 28: Projeto TFC
   * [Trybe Futebol Clube](https://github.com/davifreitas1/personal-project-tfc)
   
   #### ☑️ Bloco 29: Introdução a MongoDB
+  * Dia 1: MongoDb - Introdução
+  * Dia 2: Filter Operators
+  * Dia 3: Operadores de Consulta
+  * Dia 4: Updates Simples
+  * Dia 5: Updates Complexos - Arrays
   
   #### ☑️ Bloco 30: Mongo com Node.js e POO
+  * Dia 1: Mongoose e Arquitetura MSC (Model)
+  * Dia 2: Mongoose e Arquitetura MSC (Service e Controller)
   
   #### ☑️ Bloco 32: Masterclass - VPS, CI/CD
+  * Dia 1: VPS
+  * Dia 2: CI/CD
 
 ### :hourglass_flowing_sand: Ciência da Computação
 
