@@ -26,7 +26,7 @@ Todo o conteúdo estará disposto da seguinte forma:
   - Fundamentos
   - Front-end
   - Back-end
-      - [Trybe Futebol Clube] (https://github.com/davifreitas1/personal-project-tfc)
+      - [Trybe Futebol Clube](https://github.com/davifreitas1/personal-project-tfc)
       - [Project MongoDB Car Shop](https://github.com/davifreitas1/personal-project-mongodb-car-shop)
   - Ciência da Computação
 
@@ -48,22 +48,18 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Dia 2 - HTML & CSS: Primeiros Passos em CSS
   * Dia 3 - HTML & CSS: Seletores e Posicionamento
   * Dia 4 - HTML Semântico
-  * Projeto: Lessons Learned (Clique [aqui](https://github.com/davifreitas1/sd-017-project-lessons-learned) para conferir)
   
   #### ☑️ Bloco 4: Introdução à JavaScript e Lógica de Programação
   * Dia 1 - JavaScript - Primeiros passos
   * Dia 2 - JavaScript - Array e loop For
   * Dia 3 - JavaScript - Lógica de Programação e Algoritmos
   * Dia 4 - JavaScript - Objetos e funções
-  * Projeto - Playground Functions (Clique [aqui](https://github.com/davifreitas1/sd-17-playground-functions) para conferir)
   
   #### ☑️ Bloco 05: JavaScript: DOM, Eventos e Web Storage
   * Dia 1 - JavaScript - DOM e seletores
   * Dia 2 - JavaScript - Trabalhando com elementos
   * Dia 3 - JavaScript - Eventos
   * Dia 4 - JavaScript - Web Storage
-  * Projeto - Arte com Pixels (Clique [aqui](https://github.com/davifreitas1/sd-17-project-pixels-art) para conferir)
-  * Projeto - Lista de Afazeres (Clique [aqui](https://github.com/davifreitas1/sd-17-project-todo-list) para conferir)
 
   #### ☑️ Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
   * Dia 1 - HTML & CSS - Forms
@@ -71,7 +67,6 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Dia 3 - CSS Flexbox - Parte 1
   * Dia 4 - CSS Flexbox - Parte 2
   * Dia 5 - CSS Responsivo - Mobile First
-  * Projeto - Trybewarts (Clique [aqui]() para conferir)
   
 ### ✔️ Front-end
 
@@ -115,6 +110,7 @@ Todo o conteúdo estará disposto da seguinte forma:
   #### ☑️ Bloco 27: Programação Orientada a Objetos (POO) e Princípio SOLID
   
   #### ☑️ Bloco 28: Projeto TFC
+  * [Trybe Futebol Clube](https://github.com/davifreitas1/personal-project-tfc)
   
   #### ☑️ Bloco 29: Introdução a MongoDB
   
