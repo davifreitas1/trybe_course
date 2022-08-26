@@ -68,7 +68,56 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Dia 4 - CSS Flexbox - Parte 2
   * Dia 5 - CSS Responsivo - Mobile First
   
+  #### ☑️ Bloco 07: Introdução à JavaScript ES6 e Testes Unitários
+  * Dia 1 - JavaScript ES6 - let, const, arrow functions e template literals
+  * Dia 2 - JavaScript ES6 - Fluxo de exceção e Objetos
+  * Dia 3 - Primeiros passos em Jest
+  
+  #### ☑️ Bloco 08: Higher Order Functions do JavaScript ES6
+  * Dia 1 - JavaScript ES6 - Introdução a Higher Order Functions
+  * Dia 2 - JavaScript ES6 - forEach, find, some, every, sort
+  * Dia 3 - JavaScript ES6 - map e filter
+  * Dia 4 - JavaScript ES6 - reduce
+  * Dia 5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring
+  
 ### ✔️ Front-end
+  
+  #### ☑️ Bloco 09: JavaScript e Testes Assíncronos
+  * Dia 1 - JavaScript Assíncrono e Callbacks
+  * Dia 2 - JavaScript Assíncrono - Fetch API e async/await
+  * Dia 3 - Jest - Testes Assíncronos
+  
+  #### ☑️ Bloco 10: Introdução à React
+  * Dia 1 - 'Hello, world' no React
+  * Dia 2 - Componentes
+  
+  #### ☑️ Bloco 11: Componentes com Estado, Eventos e Formulários com React
+  * Dia 1 - Componentes com estado e eventos
+  * Dia 2 - Formulários no React
+  
+  #### ☑️ Bloco 12: Ciclo de Vida de Componentes e React Router
+  * Dia 1 - Ciclo de vida de componentes
+  * Dia 2 - React Router
+  
+  #### ☑️ Bloco 13: Metodologias Ágeis
+  * Dia 1 - Metodologias Ágeis
+  
+  #### ☑️ Bloco 14: Testes automatizados com React Testing Library
+  * Dia 1 - RTL - Primeiros passos
+  * Dia 2 - RTL - Mocks e Inputs
+  * Dia 3 - RTL - Testando React Router
+  
+  #### ☑️ Bloco 15: Gerenciamento de estado com Redux
+  * Dia 1 - Introdução ao Redux - O estado global da aplicação
+  * Dia 2 - Usando Redux no React
+  * Dia 3 - Usando Redux no React - Prática
+  * Dia 4 - Usando Redux no React - Actions Assíncronas
+  * Dia 5 - Testes em React-Redux
+  
+  #### ☑️ Bloco 17: Context API e React Hooks
+  * Dia 1 - Context API do React
+  * Dia 2 - React Hooks - useState e useContext
+  * Dia 3 - React Hooks - useEffect e Hooks customizados
 
 ### ✔️ Back-end
   
