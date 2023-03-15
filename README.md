@@ -191,6 +191,36 @@ Todo o conteúdo estará disposto da seguinte forma:
   * Dia 1: VPS
   * Dia 2: CI/CD
 
-### :hourglass_flowing_sand: Ciência da Computação
+### ✔️ Ciência da Computação
+
+  #### ☑️ Bloco 33: Introdução à Python
+  * Dia 1: Aprendendo Python
+  * Dia 2: Entrada e Saída de Dados
+  * Dia 3: Testes
+  
+  #### ☑️ Bloco 34: Padrões de Projetos
+  * Dia 1: P.O.O em Python
+  * Dia 2: Padrões - Iterator, Adapter, Strategy
+  * Dia 3: Padrões - Decorator, Observer, Factory
+  
+  #### ☑️ Bloco 35: Raspagem de Dados
+  * Dia 1: Raspagem de Dados
+  * Dia 2: Outras Ferramentas de Raspagem de Dados
+  
+  #### ☑️ Bloco 36: Algoritmos
+  * Dia 1: Complexidade de Algoritmos
+  * Dia 2: Recursividade e Estratégias para solução de problemas
+  * Dia 3: Algoritmos de ordenação e busca
+  
+  #### ☑️ Bloco 37: Estrutura de Dados I: Arrays, Lista, Filas e Pilhas
+  * Dia 1: Arquitetura de Computadores
+  * Dia 2: Arquitetura de Redes
+  * Dia 3: Arrays
+  * Dia 4: Nó e Listas Encadeadas
+  * Dia 5: Pilhas e Filas
+  
+  #### ☑️ Bloco 38: Estrutura de Dados II: Hashmaps e Sets
+  * Dia 1: Hashmaps e Dics
+  * Dia 2: Set
 
 ## Conteúdo Adicional ##
